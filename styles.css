@@ -251,7 +251,7 @@ body{
 .about{
   width: 100%;
   min-height: 100vh;
-  overflow: scroll;
+  overflow: hidden;
   background-color: #161922;
   display: flex;
   justify-content: center;
